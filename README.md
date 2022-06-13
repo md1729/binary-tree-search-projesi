@@ -76,3 +76,5 @@ root5
 					/		\					\			
 				2				4					9		
 
+
+https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje
